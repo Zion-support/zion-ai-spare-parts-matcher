@@ -9,9 +9,9 @@ Zion AI Spare Parts Matcher — AI-powered compatibility matching for Dell, HPE,
 
 - [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder) — cross-vendor part-number intelligence
 - [Zion AI RMA Tracker](https://github.com/Zion-support/zion-ai-rma-tracker) — RMA lifecycle management
-- [Zion AI IT Asset Manager](https://github.com/Zion-support/zion-ai-it-asset-manager) — hardware and SaaS lifecycle
-- [Zion AI Supply Chain](https://github.com/Zion-support/zion-ai-supply-chain) — IT supply chain optimizer
-- [Zion AI Procurement](https://github.com/Zion-support/zion-ai-procurement) — vendor evaluation and spend analysis
+- [Zion AI Supply Chain](https://github.com/Zion-support/zion-ai-supply-chain) — vendor comparison and lead times
+- [Zion AI Field Dispatch Optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer) — field routing and scheduling
+- [Zion AI Quote Builder](https://github.com/Zion-support/zion-ai-quote-builder) — instant quotes and proposals
 
 ## Part of the Zion App Network
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
