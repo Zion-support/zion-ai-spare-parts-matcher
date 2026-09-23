@@ -1,10 +1,16 @@
-# Zion AI Spare Parts Matcher
+# 🌐 Part of the Zion App Network
 
-AI-powered compatibility matching for Dell/HPE/Lenovo parts.
+**Zion AI Spare Parts Matcher** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-field](https://github.com/Zion-support/zion-field)
-- Related: [zion-ai-spare-parts-finder](https://github.com/Zion-support/zion-ai-spare-parts-finder) · [spare-price-scout](https://github.com/Zion-support/spare-price-scout) · [depot-stock-balancer](https://github.com/Zion-support/depot-stock-balancer) · [zion-ai-warranty-tracker](https://github.com/Zion-support/zion-ai-warranty-tracker)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder)
+- [Zion AI RMA Tracker](https://github.com/Zion-support/zion-ai-rma-tracker)
+- [Zion Field Parts](https://github.com/Zion-support/zion-field-parts)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
